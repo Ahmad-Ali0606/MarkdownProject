@@ -12,6 +12,7 @@ Este es el primer proyecto del Tema 2 de Entorns de Desenvolupament.
 - [License](#license)
 
 ### Introduction
+![Project Logo](Images/logo.png)
 
 ### Features
 
