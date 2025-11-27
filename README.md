@@ -15,6 +15,8 @@ Este es el primer proyecto del Tema 2 de Entorns de Desenvolupament.
 
 ![Project Logo](Images/logo.png)
 
+Esta línea se ha añadido para la tasca 12 per demostrar canvis a la secció d'Introducció.
+
 ### Features
 
 | Feature   | Description                     | Status       |
