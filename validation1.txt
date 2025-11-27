@@ -1,0 +1,90 @@
+commit 4c3b0c948391b374805fe9291d6638a0a96f37ae
+Author: Ahmad Ali <y0390729l@iespoblenou.org>
+Date:   Thu Nov 27 23:26:19 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit aacd8a34f063df7c1d98b76487c7c45f6c57b32e
+Author: Ahmad Ali <y0390729l@iespoblenou.org>
+Date:   Thu Nov 27 23:19:02 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 16 ++++++++++++++++
+ 1 file changed, 16 insertions(+)
+
+commit 0ae7598a09759ee39af016f65e4b4405522d4afd
+Author: Ahmad Ali <y0390729l@iespoblenou.org>
+Date:   Thu Nov 27 23:06:05 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit fc008c93bae585a4b82a6735ad8f50a71f38c15b
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 26 09:25:08 2025 +0100
+
+    Add project logo to README
+
+ Images/logo.png | Bin 0 -> 90296 bytes
+ README.md       |   1 +
+ 2 files changed, 1 insertion(+)
+
+commit fb413278f50ebc24c34e26abeb8aca64f4e3c59c
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 26 09:09:18 2025 +0100
+
+    Add sections to README
+
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit ebfdc73806d6283f53028b4454c239cc73d1e8d6
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 26 09:01:48 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 15 ++++++++++++++-
+ 1 file changed, 14 insertions(+), 1 deletion(-)
+
+commit 00e7c6d68870875ee35adab310e540c44f291f72
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 26 08:42:53 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 3845e21561f0957e94c21851e563f9d3dedb3b12
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 19 09:32:28 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 8b217deeca2ba4c933b1d50184b7ffa2f7b38814
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 19 09:20:18 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 33a2e59712b5ca52e43474023e91664214534853
+Author: Ahmad <y0390729l@iespoblenou.org>
+Date:   Wed Nov 19 08:56:42 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
